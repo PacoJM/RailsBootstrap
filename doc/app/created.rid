@@ -1,0 +1,6 @@
+Mon, 14 Dec 2015 17:43:25 +0100
+README.rdoc	Mon, 14 Dec 2015 16:56:41 +0100
+app/controllers/application_controller.rb	Mon, 14 Dec 2015 16:56:41 +0100
+app/controllers/welcome_controller.rb	Mon, 14 Dec 2015 17:05:16 +0100
+app/helpers/application_helper.rb	Mon, 14 Dec 2015 16:56:41 +0100
+app/helpers/welcome_helper.rb	Mon, 14 Dec 2015 17:05:17 +0100
